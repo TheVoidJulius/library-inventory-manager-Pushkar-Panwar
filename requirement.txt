@@ -1,0 +1,5 @@
+# Python version required
+python>=3.8
+
+# Standard library modules used
+json  # built-in module 
